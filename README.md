@@ -28,7 +28,6 @@ Bootstrap – Responsive framework
 
 JavaScript (ES6+) – Interactivity
 
-(Optional) Other libraries or frameworks (mention if used)
 
 🚀 How to Run
 
