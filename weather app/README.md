@@ -31,3 +31,5 @@ The website will display Udaipur's current weather instantly.
 
 Note:
 You may need an API key from a weather service like OpenWeatherMap to enable live data functionality.
+
+![Screenshot 2025-08-22 121247](https://github.com/Priyanshiagarwal2006/Frontend-Project/blob/main/weather%20app/wea.jpg)
