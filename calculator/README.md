@@ -28,3 +28,5 @@ How to Use:
 
 Open the index.html file in any modern web browser.
 
+![Screenshot 2025-08-22 121247](https://github.com/Priyanshiagarwal2006/Frontend-Project/blob/main/calculator/cal.jpg)
+
