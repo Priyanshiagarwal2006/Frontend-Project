@@ -25,4 +25,6 @@ Open the index.html file in any web browser.
 
 Click the button to turn the light bulb ON or OFF.
 
+![Screenshot 2025-08-22 121247](https://github.com/Priyanshiagarwal2006/Frontend-Project/blob/main/light%20bulb/bulb.jpg)
+
 
