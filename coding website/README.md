@@ -23,6 +23,8 @@ Interactive sections for learning or displaying content
 
 Easy to customize and extend
 
+![Screenshot 2025-08-22 121247](https://github.com/Priyanshiagarwal2006/Frontend-Project/blob/main/coding%20website/code.jpg)
+
 📌 Project Structure:
 
 coding-acrux/
@@ -33,3 +35,5 @@ coding-acrux/
 │   └── script.js
 └── assets/
         └── (images, icons, etc.)
+
+     
