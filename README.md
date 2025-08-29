@@ -25,14 +25,6 @@ The main purpose of the project is to provide a **clean, structured, and user-fr
 
 ---
 
-## 🚀 How to Run  
-1. Clone this repository  
-   ```bash
-   git clone <repo-link>
-Open the project folder
-
-Run the index.html file in any modern web browser
-
 📂 Folder Structure
 bash
 Copy code
@@ -41,18 +33,3 @@ project-folder/
 │── style.css
 │── script.js
 │── /assets (images, icons, fonts)
-📌 Future Scope
-🌍 API integration for dynamic data
-
-✨ Enhanced animations
-
-🗄 Adding backend support
-
-🎨 Dark/Light mode toggle
-
-📌 Learning Outcomes
-✔ Strengthened knowledge of HTML5, CSS3, and Bootstrap for responsive layouts
-✔ Improved skills in JavaScript DOM manipulation and event handling
-✔ Learned to create scalable and maintainable folder structures
-✔ Understood how to integrate modern UI/UX practices
-✔ Gained hands-on experience in frontend project development
